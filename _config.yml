@@ -5,25 +5,25 @@ description: A fully responsive site template designed by <a href="https://html5
 baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 1234 6 Al 
+city: N
+state: HD
+zip_code: 5531009
+country: Romania
+phone: (716) -1523
 
 icon: fa-diamond # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: https://gitlab.com
+googleplus_url: https://plus.google.com
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com
 
 # Build settings
 markdown: kramdown
